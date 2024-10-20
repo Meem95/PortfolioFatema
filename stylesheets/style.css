@@ -824,7 +824,7 @@ body.scale-effect .btn-holder .btn-play {
   }
 
   .timeline-exp-new::before {
-    height: 60% !important;
+    height: 90% !important;
     top: -90px !important;
   }
   .timeline-exp-new {
